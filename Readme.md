@@ -2,6 +2,8 @@
 # Block Fuse Assessment
 
 This README provides instructions for setting up and running the Block Fuse Assessment project.
+/
+- **[Demo]([https://nodejs.org](https://block-fuse-assesment.vercel.app)/)**:
 
 ## Prerequisites
 
