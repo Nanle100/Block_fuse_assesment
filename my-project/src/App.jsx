@@ -12,7 +12,10 @@ function App() {
 
   return (
     <>
+    <nav className="flex items-center  container mx-auto px-5">
+      <span className="">BlockFuse</span>
       <Navbar/>
+    </nav>
       <Routes>
         <Route path='/' element={<Home/>}/>
         <Route path='/create' element={<Form />}/>
